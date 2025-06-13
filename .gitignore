@@ -1,0 +1,24 @@
+# Ignore database dump and config files if any
+*.sql
+*.db
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore build files if any
+build/
+dist/
+
+# Ignore virtual environment folders if any
+env/
+venv/
+.venv/
