@@ -13,10 +13,9 @@ This project is a database management system designed to handle inventory contro
 
 ## Technologies Used
 
-- Database: MySQL / PostgreSQL / SQLite (specify what you used)
-- Frontend/UI: (if applicable, e.g., Java Swing, Python Tkinter, Web UI)
+- Database: MySQL 
 - Backend: SQL queries, stored procedures
-- Programming Language: (e.g., Java, Python, C# - specify if used)
+
 
 ## How to Run
 
